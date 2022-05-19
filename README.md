@@ -1,3 +1,6 @@
+info: https://github.com/pwa-builder/pwa-starter/wiki/Getting-Started
+
+
 # pwa-starter
 
 Please use our [main repository for any issues/bugs/features suggestion](https://github.com/pwa-builder/PWABuilder/issues/new/choose).
