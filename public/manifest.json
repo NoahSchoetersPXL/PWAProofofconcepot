@@ -1,34 +1,39 @@
 {
   "id": "/",
   "scope": "/",
-  "name": "PWA Starter",
+  "name": "Proof of concept pwa",
   "display": "standalone",
   "start_url": "/",
-  "short_name": "starter",
+  "short_name": "POC",
   "theme_color": "#E1477E",
-  "description": "This is a PWA Starter app",
+  "description": "Proof of concept pwa van AON11",
   "orientation": "any",
   "background_color": "#E1477E",
   "related_applications": [],
   "prefer_related_applications": false,
   "icons": [
     {
-      "src": "assets/icons/icon_512.png",
+      "src": "assets/icons/internet_512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "assets/icons/icon_192.png",
-      "sizes": "192x192",
+      "src": "assets/icons/internet_256.png",
+      "sizes": "256x256",
       "type": "image/png"
     },
     {
-      "src": "assets/icons/icon_48.png",
-      "sizes": "48x48",
+      "src": "assets/icons/internet_128.png",
+      "sizes": "128x128",
       "type": "image/png"
     },
     {
-      "src": "assets/icons/icon_24.png",
+      "src": "assets/icons/internet_64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/internet_24.png",
       "sizes": "24x24",
       "type": "image/png"
     }
@@ -54,7 +59,7 @@
       "short_name": "About",
       "description": "Open the about page",
       "url": "/about",
-      "icons": [{ "src": "assets/icons/icon_192.png", "sizes": "192x192" }]
+      "icons": [{ "src": "assets/icons/internet_128.png", "sizes": "128x128" }]
     }
   ]
 }
